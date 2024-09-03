@@ -39,23 +39,6 @@ Additionally, a demo video showcases the potential use of the fire detection mod
 
 The `video.mp4` file contains a demonstration of the fire detection system in action. It illustrates the practical application of the model in a real-world scenario, highlighting its potential to enhance fire safety and prevention measures.
 
-## Usage
-
-To explore the notebook and run the code, follow these steps:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/fire-detection-system.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd fire-detection-system
-    ```
-3. Open the Jupyter notebook:
-    ```bash
-    jupyter notebook Fire_Detection.ipynb
-    ```
-
 ## Requirements
 
 Ensure you have the following dependencies installed:
